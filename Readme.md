@@ -44,7 +44,7 @@ pip install fastapi uvicorn
 # Make API flder
 # make main.py file and write route logic
 # start Server
-uvicorn main:app --reload
+uvicorn API.main:app --reload # API. is file name 
 
 
 
